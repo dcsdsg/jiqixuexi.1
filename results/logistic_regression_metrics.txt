@@ -1,0 +1,5 @@
+sklearn_train_accuracy: 0.793696
+sklearn_test_accuracy: 0.767176
+manual_train_accuracy: 0.792741
+manual_test_accuracy: 0.767176
+manual_final_loss: 0.457760
