@@ -1,2 +1,2 @@
-# jiqixuexi.1
-a work for my machine learning
+# 机器学习课程实践
+a work and a note of my machine learning
